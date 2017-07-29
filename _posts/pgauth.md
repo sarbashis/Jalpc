@@ -22,7 +22,7 @@ Here is what I found in `src/backend/postmaster/postmaster.c`
 ```When a request message is received, we now fork() immediately. The child process performs authentication of the request, and then becomes a backend if successful. This allows the auth code to be written in a simple single-threaded style (as opposed to the crufty "poor man's multitasking" code that used to be needed). More importantly, it ensures that blockages in non-multithreaded libraries like SSL or PAM cannot cause denial of service to other clients."
 They made this change to eliminate problems with authentication blocking. Here is relevant commit I found which says,
 "Handle reading of startup packet and authentication exchange after forking a new postmaster child process. 
-This should eliminate problems with authentication blocking (.g., ident, SSL init) and also reduce problems with the accept queue filling up under heavy load.```
+This should eliminate problems with authentication blocking (.g., ident, SSL init) and also reduce problems with the accept queue filling up under heavy load."```
 
 
 
