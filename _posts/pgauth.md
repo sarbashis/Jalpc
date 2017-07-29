@@ -27,11 +27,10 @@ This should eliminate problems with authentication blocking (.g., ident, SSL ini
 
 Also I would like to quote a line from this documentation.
 
-```
-Whenever a request for a connection is detected the process spawns a new server process."
-```
+`"Whenever a request for a connection is detected the process spawns a new server process."`
+
 
 Also, here is comment found in source code of postmaster.c from postgreSQL 6.5 (Line 803) in which postmaster used to authenticate the user connections.
 
 
-```If there is no error and no outstanding data transfer going on, then the authentication handshake must be complete to the postmaster's satisfaction.  So, start the backend.```
+```"If there is no error and no outstanding data transfer going on, then the authentication handshake must be complete to the postmaster's satisfaction.  So, start the backend."```
