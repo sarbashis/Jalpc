@@ -207,6 +207,7 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 - [ ] `jekyll server --watch` mode need to use original CSS/JS files
 - [ ] User can customise index page's section title.
 - [ ] Non-github projects also have links.
+- [ ] Add some custom color themes for selection(Nav bar, background, words, dominant hue).
 
 # Change Log
 Please see [wiki](https://github.com/jarrekk/Jalpc/wiki/Change-Log)
@@ -217,7 +218,6 @@ If this project let you enjoy your blog time, you can give me a cup of coffee :)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/jarrekk)
 
 # Contributors
-
 * [lucasschejtman](https://github.com/lucasschejtman)
 * [felansu](https://github.com/felansu)
 * [brianjking](https://github.com/brianjking)
