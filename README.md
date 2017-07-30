@@ -223,6 +223,7 @@ If this project let you enjoy your blog time, you can give me a cup of coffee :)
 * [brianjking](https://github.com/brianjking)
 * [JonSn0w](https://github.com/JonSn0w)
 * [remimarenco](https://github.com/remimarenco)
+* [hjfzxc](https://github.com/hjfzxc)
 
 # Ad
 [Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
