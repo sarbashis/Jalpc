@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Greenplum Database, PostgreSQL, MarkLogic Database Server, Python, Sleeping
-percentage: 50, 70, 40, 20, 40, 100
+aspects: GitHub, Greenplum Database, PostgreSQL, MarkLogic Database Server, Python, Shell
+percentage: 50, 70, 40, 20, 40, 60
