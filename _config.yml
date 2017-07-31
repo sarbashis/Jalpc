@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Yogesh Jadhav  # Be used at blog posts' author.
   first_name: Yogesh  # Be used at index page about me section.
   last_name: Jadhav  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/yogesh.jpg  # upload your avatar at directory and edit it.
   github_username: pgyogesh  # Leave blank if you don't have now
   linkedin_id: pgyogesh # Leave blank if you don't have now
   facebook_username: yogeshjadhav96  # Leave blank if you don't have now
