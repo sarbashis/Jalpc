@@ -7,7 +7,7 @@
     detail: I worked at Wipro Technologies as a Greenplum Database Support Engineer
     i18n: company_a
   date:
-    detail: Oct. 2014
+    detail: 27 October 2014
     i18n: company_a_date
   job:
     detail: Greenplum Database Support Engineer
@@ -21,9 +21,9 @@
     detail: I'm working in Broadridge Financial Solutions as Big Data administrator 
     i18n: company_b_desc
   date:
-    detail: Now. 2017
+    detail: 28 November 2016
     i18n: company_b_date
   job:
-    detail: Big Data Admin
+    detail: Greenplum and MarkLogic Server Administrator
     i18n: company_b_job
   icon: fa-plus-square
