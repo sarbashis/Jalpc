@@ -1,17 +1,13 @@
 ---
 layout: post
-title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
+title:  "It's backend process that authenticates users in PostgreSQL... Not Postmaster Process..."
 date:   2017-01-31
-desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+desc: "It's backend process that authenticates users in PostgreSQL... Not Postmaster Process..."
+keywords: "pgyogesg,gh-pages,website,blog,easy"
 categories: [database]
 tags: [postgres]
 icon: icon-html
 ---
-
-It's backend process that authenticates users in PostgreSQL... Not Postmaster Process... 
-September 03, 2016
-
 
 Earlier I used to think that, In PostgreSQL, it is postmaster process that authenticates the user connections (Which is of course not wrong but no more). But somewhere I read like "backend process authenticates the user connections" and this made me to investigate more on this. So here I'm writing what I found :).
 
