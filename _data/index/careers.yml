@@ -5,7 +5,7 @@
     i18n: company_a
   desc:
     detail: I worked at Wipro Technologies as a Greenplum Database Support Engineer
-    i18n: 
+    i18n: company_a
   date:
     detail: Oct. 2014
     i18n: company_a_date
