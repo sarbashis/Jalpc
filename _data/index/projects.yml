@@ -5,15 +5,15 @@
   i18n: pgyogesh
   gh_user: pgyogesh
   repo: Greenplum
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/greenplum.png
   desc: This repo included some python,shell,SQL scripts for Greenplum Database Admins
 
 - name: MarkLogic
   i18n: pgyogesh
   gh_user: pgyogesh
   repo: MarkLogic
-  img: /static/assets/img/landing/leetcode.png
-  desc: This repo included some python,shell,SQL scripts for MarkLogic Server Users
+  img: /static/assets/img/landing/marklogic.png
+  desc: This repo included some python,shell,xquery,java scripts for MarkLogic Server Users
 
 #- name: FamilyCODE Wchat
 #  i18n: familycode
