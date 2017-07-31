@@ -3,7 +3,7 @@ layout: post
 title:  "It's backend process that authenticates users in PostgreSQL... Not Postmaster Process..."
 date:   2017-01-31
 desc: "It's backend process that authenticates users in PostgreSQL... Not Postmaster Process..."
-keywords: "pgyogesg,gh-pages,website,blog,easy"
+keywords: "pgyogesh,gh-pages,website,blog,easy"
 categories: [database]
 tags: [postgres]
 icon: icon-html
