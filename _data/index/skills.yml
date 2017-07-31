@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, GPDB Administration, Postgres Administration, MarkLogic Database Administration, Python, Shell
+aspects: GitHub, Greenplum, PostgreSQL, MarkLogic, Python, Shell
 percentage: 50, 80, 60, 20, 40, 60
