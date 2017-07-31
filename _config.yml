@@ -25,9 +25,11 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: fa-stack-overflow
     - name: fa-linux
+    - name: icon-shell
   skill_icon2:
     - name: icon-postgres
     - name: icon-python
+    - name: icon-database
   desc: Big Data Administrator at Broadridge Financial Solutions India Limited.  # Describe yourself.
 
 # comment
