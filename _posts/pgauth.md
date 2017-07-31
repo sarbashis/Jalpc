@@ -6,7 +6,7 @@ desc: "It's backend process that authenticates users in PostgreSQL... Not Postma
 keywords: "pgyogesh,gh-pages,website,blog,easy"
 categories: [database]
 tags: [postgres]
-icon: icon-html
+icon: icon-postgres
 ---
 
 Earlier I used to think that, In PostgreSQL, it is postmaster process that authenticates the user connections (Which is of course not wrong but no more). But somewhere I read like "backend process authenticates the user connections" and this made me to investigate more on this. So here I'm writing what I found :).
