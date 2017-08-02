@@ -1,29 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Department of Cell and Molecular biology
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Uppsala University, Sweden
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: July 2015 - Present.
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Researcher
     i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Uppsala University
+    i18n: company_b
+  desc:
+    detail: Sweden
+    i18n: company_b_desc
+  date:
+    detail: July 2014 - June 15
+    i18n: company_b_date
+  job:
+    detail: Postdoctoral Researcher
+    i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Institue of Molecular biology (IMB)
+    i18n: company_c
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Germany
+    i18n: company_c_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Feb, 2013 – July 2014
+    i18n: company_c_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Postdoctoral Researcher
+    i18n: company_c_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Uppsala University
+    i18n: company_d
+  desc:
+    detail: Sweden
+    i18n: company_d_desc
+  date:
+    detail: July, 2012 – October, 2012
+    i18n: company_d_date
+  job:
+    detail: Guest Researcher
+    i18n: company_d_job
   icon: fa-plus-square
